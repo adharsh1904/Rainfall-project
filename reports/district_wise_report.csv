@@ -1,0 +1,16 @@
+district,stations,records,total_rainfall_mm,avg_daily_rainfall_mm,max_daily_rainfall_mm,rank_by_avg_daily_rainfall
+Kannur,11,4757,126400.0,26.57,266.4,1
+Ernakulam,2,992,23842.5,24.03,211.6,2
+Kasaragod,10,4477,106424.29,23.77,216.4,3
+Kozhikode,6,2801,64571.91,23.05,283.6,4
+Pathanamthitta,6,2863,64399.83,22.49,229.2,5
+Thrissur,16,8820,185400.92,21.02,300.0,6
+Idukki,6,2733,54782.83,20.04,290.4,7
+Wayanad,7,3221,62685.3,19.46,372.6,8
+Alappuzha,5,1716,32812.89,19.12,270.0,9
+Thiruvananthapuram,11,4631,87531.09,18.9,226.4,10
+Kottayam,6,2377,44905.67,18.89,220.0,11
+Malappuram,7,3676,66251.6,18.02,233.2,12
+Kollam,8,3429,57162.61,16.67,224.0,13
+Palghat,4,1871,30616.82,16.36,255.0,14
+Palakkad,10,4158,67988.11,16.35,322.0,15

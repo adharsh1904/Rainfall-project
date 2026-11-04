@@ -1,0 +1,6 @@
+step,reason,rows_before,rows_after
+T9 Split date into parts,Year/month/weekday columns make monthly and trend analysis easy,52522,52522
+T10 Create season column,"Kerala rainfall is driven by monsoon seasons, so season is a key category",52522,52522
+T11 Create rainfall category,IMD intensity classes (Very Light ... Extremely Heavy) for each reading,52522,52522
+T12 Aggregation + ranking,Station total rainfall and rank (1 = wettest) added to each row,52522,52522
+T13 Sort records,Ordered by station then date for time-series use,52522,52522

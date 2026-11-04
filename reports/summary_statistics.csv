@@ -1,0 +1,13 @@
+statistic,rainfall_mm
+count,52522.0
+mean,20.48
+std,25.82
+min,0.01
+25%,3.8
+50%,11.2
+75%,27.1
+max,372.6
+stations,115
+districts,15
+first_date,2021-01-01
+last_date,2025-03-29
